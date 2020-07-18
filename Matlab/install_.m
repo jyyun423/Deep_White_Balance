@@ -5,7 +5,6 @@
 % Mahmoud Afifi and Michael S Brown. Deep White-Balance Editing. In CVPR, 2020.
 %%
 
-
 disp('Installing...')
 current = pwd;
 addpath(fullfile(current,'arch'));
